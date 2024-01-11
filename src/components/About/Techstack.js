@@ -11,11 +11,11 @@ import {
   DiJava,
 } from "react-icons/di";
 import {
+  SiPostgresql,
   SiRedis,
   SiFirebase,
   SiNextdotjs,
   SiSolidity,
-  SiPostgresql,
 } from "react-icons/si";
 import { TbBrandGolang } from "react-icons/tb";
 

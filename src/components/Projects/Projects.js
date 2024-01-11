@@ -5,7 +5,7 @@ import Particle from "../Particle";
 import bookbuddy from "../../Assets/Projects/book-buddy.png";
 import passwordgenerator from "../../Assets/Projects/password-generator.png";
 import foodease from "../../Assets/Projects/food-ease.png";
-import foodease from "../../Assets/Projects/weather-dashboard.png";
+import weatherdashboard from "../../Assets/Projects/weather-dashboard.png";
 
 function Projects() {
   return (
